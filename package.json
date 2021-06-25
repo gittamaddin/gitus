@@ -1,0 +1,19 @@
+{
+  "name": "gitus",
+  "version": "1.0.0",
+  "description": "this is a directory to learn basics about git and npm",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gittamaddin/gitus.git"
+  },
+  "author": "issam majdoubi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gittamaddin/gitus/issues"
+  },
+  "homepage": "https://github.com/gittamaddin/gitus#readme"
+}
